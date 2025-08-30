@@ -1,0 +1,13 @@
+{
+    "name":"Gen-FC Universe",
+    "numberOfTeams": 104,
+    "numberOfConferences" : 8, 
+    "numberOfDivisionsMin" : 1,
+    "numberOfDivisionsMax" : 4,
+    "numberOfTeamsPerDivisionMin" : 4,
+    "numberOfTeamsPerDivisionMax" : 11, 
+    "numberOfBowls": 8,
+    "startingYear": 2000,
+    "startingMessage": "Let's go!!",
+    "adjustHsGradYears": false 
+}
